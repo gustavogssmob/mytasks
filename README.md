@@ -8,8 +8,5 @@
 - [Vector Icons](https://docs.expo.dev/guides/icons/)
 - [Flat List](https://reactnative.dev/docs/flatlist)
 
-## Aplicativo :iphone:
 
-
-https://github.com/gustavogss/mytasks/assets/20332960/63654340-ccb4-43ff-9322-57c338b7a760
 
